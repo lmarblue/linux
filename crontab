@@ -1,3 +1,9 @@
+/*6 编写定时文件脚本
+       在创建好的文件里面写入定时时间，后面跟上你的 Job脚本路径
+           如1 * * * * /bin/sh /kettle/kettlejob/kettlejob.sh
+                 前面是时间不懂的就可以百度; /bin/sh 后面需加入空格，然后后面是你放job脚本的路径。*/
+
+
 Linux定时任务crontab命令：
   cron是服务名称，crond是后台进程，crontab则是定制好的计划任务表
   
