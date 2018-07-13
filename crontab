@@ -1,0 +1,3 @@
+Linux定时任务crontab命令：
+  cron是服务名称，crond是后台进程，crontab则是定制好的计划任务表
+  
